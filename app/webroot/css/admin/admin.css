@@ -1,0 +1,18 @@
+.box_radio{
+	width: 555px;
+	height: 120px;
+	overflow-y: scroll;
+}
+
+.box_radio_tutor{
+	width: 255px;
+	height: 120px;
+	overflow-y: scroll;
+	margin: 0px 15px;
+	float: left;
+}
+
+.refresh_search{
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
